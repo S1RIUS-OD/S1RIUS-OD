@@ -10,9 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=S1RIUS-OD&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=S1RIUS-OD&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=S1RIUS-OD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
+### 💻 Most Used Languages:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -23,5 +21,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=flat&logo=sass&logoColor=white)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
